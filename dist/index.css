@@ -2,4 +2,7 @@
   background: red; }
 
 body {
-  color: yellow; }
+  color: yellow;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAABQCAMAAAAa52RZAAAAQlBMVEUAAADCyM3ByM3Cyc7CydDBx8zBx8zBx8zByM3Ax8zAyc3CyM3Dx8/Fys/V1dXDyc7CyM7Ax8zj5uj////e4eTY3eCZiPkkAAAAEXRSTlMAZa5nJfbt0sGSelxAMAxZWK7G6TkAAACASURBVDjL1dPLDkRAAERR/RjDPFC0//9VIRJ3oXYWWNVJpDvpVFVdhS8TXyISykQk9CEUAEiUdgFKhBKhnnj9ATWEfkRLvIma0LNR5gPjVFbsedQK5A1ly8TJbxCP5qV3eoNLUNu6tK5ijavlYKqcTP2DmUwwM4tumtHOORMd8gLNti+aiF62ogAAAABJRU5ErkJggg==); }
+  body div {
+    background: url(../images/welcome-pic-2.png); }
